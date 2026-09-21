@@ -1,0 +1,11 @@
+MEMBER ID: M101
+NAME: Rahul Sharma
+TYPE: Student
+
+MEMBER ID: M102
+NAME: Priya Mehta
+TYPE: Student
+
+MEMBER ID: M103
+NAME: Arjun Patel
+TYPE: Faculty

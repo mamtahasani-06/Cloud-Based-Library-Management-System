@@ -1,0 +1,14 @@
+BOOK ID: B101
+TITLE: The Alchemist
+AUTHOR: Paulo Coelho
+STATUS: Available
+
+BOOK ID: B102
+TITLE: Clean Code
+AUTHOR: Robert C. Martin
+STATUS: Available
+
+BOOK ID: B103
+TITLE: Java: The Complete Reference
+AUTHOR: Herbert Schildt
+STATUS: Issued
